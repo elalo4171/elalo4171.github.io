@@ -15,7 +15,103 @@ social:
   github: https://github.com/<username>
   linkedin-square: https://linkedin.com/in/<username>
   facebook-official: https://facebook.com/<username>
-  google-plus-square: https://plus.google.com/u/0/+<username>
+  google-plus-square: https://plus.google.com/u/0/+<username>saltar al contenido
+Search or jump to…
+
+Problemas de solicitudes de
+extracción
+Mercado
+Explorar
+ 
+@ elalo4171 
+¡Aprende Git y GitHub sin ningún código!
+Con la guía Hello World, comenzará una rama, escribirá comentarios y abrirá una solicitud de extracción.
+
+
+arkadianriver
+/
+espectral
+7 7
+345370
+ Código Problemas 1 Solicitudes de extracción 0 Comportamiento Proyectos 0 Wiki Seguridad Percepciones
+spectral /_config.yml
+@arkadianriver arkadianriver Subir para JekyllThemes
+47b7aa2
+el 20 de febrero de 2016
+59 líneas (57 sloc)  1,19 KB
+  
+# ¡ Bienvenido a Jekyll!
+# #
+
+# Configuración del sitio
+Título : espectral
+descripción : |
+  Otra buena respuesta  
+  plantilla de sitio gratis  
+  creado por [HTML5 UP] (http://html5up.net)
+propietario : su nombre # o nombre de la empresa
+first_published : 2016  # si migra otro sitio, el año de su primera publicación
+correo electrónico : tu-email@dominio.com
+baseurl : " "  # la ruta secundaria de su sitio, por ejemplo / blog
+url : " http://yourdomain.com "  # el nombre de host base y el protocolo para su sitio
+social :
+  twitter : https://twitter.com/ <nombre de usuario>
+  github : https://github.com/ <nombre de usuario>
+  linkedin-square : https://linkedin.com/in/ <username>
+  facebook-official : https://facebook.com/ <username>
+  google-plus-square : https://plus.google.com/u/0/+ <nombre de usuario>
+  # correo electrónico: / contacto /
+  # flickr:
+  # instagram:
+  # youtube-square:
+  # spotify:
+  # stack-overflow:
+  # vimeo:
+  # reddit:
+  # stubleupon:
+  # delicioso:
+  # pied-piper:
+  # digg:
+  # soundcloud:
+  # deviantart:
+  # angelista:
+  # tumblr-square:
+  # stackexchange:
+  # weibo:
+  # trello:
+  # foursquare:
+  # linux:
+  # bitbucket-square:
+  # vk:
+  # holgura:
+  # vid:
+  # weixin:
+  # yelp:
+  # skyatlas:
+  # leanpub:
+  # connectdevelop:
+  # ils:
+  # forumbee:
+  # tripadvisor:
+  # amazon:
+
+# Configuración de compilación
+descuento : kramdown
+# sass:
+#   estilo: comprimido
+© 2020 GitHub, Inc.
+Condiciones
+Intimidad
+Seguridad
+Estado
+Ayuda
+Póngase en contacto con GitHub
+Precios
+API
+Formación
+Blog
+Acerca de
+
   #email: /contact/
   #flickr:
   #instagram:
