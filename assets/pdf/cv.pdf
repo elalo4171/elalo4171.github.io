@@ -1,0 +1,792 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 612. 792.]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 4304
+>>
+stream
+0.200025 w
+0 G
+q
+67. 0 0 16. 40. 18. cm
+/I0 Do
+Q
+BT
+/F1 10 Tf
+11.5 TL
+0.4 g
+111. 22. Td
+(| www.occ.com.mx) Tj
+ET
+BT
+/F2 16 Tf
+18.3999999999999986 TL
+0. g
+40. 732. Td
+(Eduardo Garcia Laguna) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+40. 716. Td
+(Hombre • 22 años) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+40. 702. Td
+(Apaseo el Alto, GTO) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+40. 680. Td
+(\(413\) 162 0644) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+40. 666. Td
+(dev.lalo.desarrollo@gmail.com) Tj
+ET
+0.86 G
+40. 644. m
+572. 644. l
+S
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+40. 612. Td
+(Experiencia profesional) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0. g
+40. 586. Td
+(• Flutter en IntervedCode) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+40. 572. Td
+(abril 2021 - Actual) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+40. 558. Td
+(Desarrollo de aplicación Fitness, cuenta con inicio de sesión, consumo de Rest Api una arquitectura solida,) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+40. 544. Td
+(hablando específicamente de Flutter uso Bloc para manejar el estado de todo el árbol de widgets, la forma) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+40. 530. Td
+(de trabajar en este proyecto es bajo una mezcla de metodología SCRUM, se plantean los objetivos del) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+40. 516. Td
+(SPRINT y con juntas diarias vamos viendo avances y solucionando los STOPPERS. También uso Fastlane) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+40. 502. Td
+(para automatizar los despliegues de las app y para los widget estoy creando pruebas.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0. g
+40. 472. Td
+(• Desarrollador móvil en Uroboros) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+40. 458. Td
+(julio 2020 - febrero 2021) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+40. 444. Td
+(Agregar funcionalidades a aplicación móvil creada, esta aplicación contaba com 1000 usuarios recurrentes,) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+40. 430. Td
+(trabajaba con otro desarrollador donde fuimos agregando funciones como:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+40. 416. Td
+(Push Notifications) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+40. 402. Td
+(Analytics) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+40. 388. Td
+(Mejoras en diseño y experiencia de usuario.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+40. 374. Td
+(Eficiencia al consumir apis.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+40. 360. Td
+(Se trabajaba con mapas y ubicación de usuarios.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+40. 346. Td
+(También creamos una aplicación completa desde 0 que sigue en desarrolló y su enfoque era para) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+40. 332. Td
+(restaurantes que quisieran tener su propia aplicación para mandar) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0. g
+40. 302. Td
+(• Api Rest en Personal) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+40. 288. Td
+(mayo 2020 - junio 2020) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+40. 274. Td
+(Para comprobar los conocimientos que adquirí en un curso cree una API Rest simple, esta consiste en un) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+40. 260. Td
+(pequeño sistema de registro de usuarios con nombre, correo y una foto de perfil, la idea es cubrir la parte de) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+40. 246. Td
+(recibir archivos en la API Rest en este caso imágenes, la base de datos esta en Postgres y para desarrollar) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+40. 232. Td
+(la API Rest use Node Js con express, esta api la monte en Digital Ocean.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0. g
+40. 202. Td
+(• Desarrollador de software en Instituto Tecnológico de Celara) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+40. 188. Td
+(agosto 2019 - febrero 2020) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+40. 174. Td
+(Planeacion y desarrollo de aplicación en Flutter donde permite a estudiantes de una universidad  que tiene) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+40. 160. Td
+(automóvil ayudar a sus campaneros que se mueven caminando con un "rai". En este proyecto fui el) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+40. 146. Td
+(encargado de la aplicación en Flutter y de definir toda la interacción que tendrá la API Rest y la aplicación,) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+40. 132. Td
+(también participe en el diseño de la base de datos. Usamos código nativo para acceder al gps desde Flutter.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0. g
+40. 102. Td
+(• Desarrollador móvil en Genicrea) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+40. 88. Td
+(febrero 2019 - agosto 2020) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+40. 74. Td
+(Creación de aplicación en Flutter para contactar a personas por medio de un mapa interactivo, también) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 612. 792.]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 2583
+>>
+stream
+0.200025 w
+0.86 G
+q
+67. 0 0 16. 40. 18. cm
+/I0 Do
+Q
+BT
+/F1 10 Tf
+11.5 TL
+0.4 g
+111. 22. Td
+(| www.occ.com.mx) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.4 g
+40. 732. Td
+(cuenta con un chat que permite que los usuario se comuniquen entre ellos, tienen una galería de imágenes.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.4 g
+40. 718. Td
+(En este proyecto participe en la creación de la App en Flutter y también en el diseño de la base de datos.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.4 g
+40. 704. Td
+(Esta parte fue al inicio del proyecto  y el script de la base de datos lo hicimos en postgres.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+40. 666. Td
+(Objetivo profesional) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+40. 640. Td
+(Puesto: Desarrollador móvil) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+40. 626. Td
+(Salario mensual deseado: $25,000 ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+40. 604. Td
+(Busco empresa donde pueda crecer y seguir aprendiendo, de preferencia con un equipo de desarrollo) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+40. 590. Td
+(profesional.Me gusta resolver problemas y crear soluciones interesantes.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+40. 552. Td
+(Área de especialidad) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+40. 526. Td
+(Desarrollo de software - Programador, Administrador de sistemas, Administración de proyectos) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+40. 488. Td
+(Habilidades) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+40. 462. Td
+(Flutter, Mysql, Adobe xd, Scrum methodology, Git, Github, Gitlab, Diseño de aplicaciones móviles,) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+40. 448. Td
+(Postgresql, Desarrollo de aplicaciones móviles hibridas, Linux, Inglés, sql server, Inglés intermedio,) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+40. 434. Td
+(Desarrollo ios, Desarrollo con flutter, Desarrollo de moviles, Java, Material designe, Equipos agile, Equipos) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+40. 420. Td
+(agile, Inglés avanzado, Desarrollo software, Desarrollo software, Python) Tj
+ET
+0.86 G
+40. 398. m
+572. 398. l
+S
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+40. 366. Td
+(Educación) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0. g
+40. 340. Td
+(• Instituto Tecnológico de Celaya) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+40. 326. Td
+(Actual) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+40. 312. Td
+(Universitario - No titulado en Ingeniería en Sistemas Comunicacionales) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+40. 274. Td
+(Idiomas) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+40. 248. Td
+(Inglés Básico) Tj
+ET
+0.86 G
+40. 226. m
+572. 226. l
+S
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+40. 194. Td
+(Enlaces) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+40. 168. Td
+(https://github.com/elalo4171) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R ]
+/Count 2
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+19 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+20 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+21 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 268
+/Height 64
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 10913
+/Filter /DCTDecode
+>>
+stream
+ÿØÿà JFIF   H H  ÿá LExif  MM *    ‡i                                   @    ÿí 8Photoshop 3.0 8BIM      8BIM%     ÔŒÙ ²é€	˜ìøB~ÿÀ  @ ÿÄ           	
+ÿÄ µ   } !1AQa"q2‘¡#B±ÁRÑğ$3br‚	
+%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyzƒ„…†‡ˆ‰Š’“”•–—˜™š¢£¤¥¦§¨©ª²³´µ¶·¸¹ºÂÃÄÅÆÇÈÉÊÒÓÔÕÖ×ØÙÚáâãäåæçèéêñòóôõö÷øùúÿÄ        	
+ÿÄ µ  w !1AQaq"2B‘¡±Á	#3RğbrÑ
+$4á%ñ&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz‚ƒ„…†‡ˆ‰Š’“”•–—˜™š¢£¤¥¦§¨©ª²³´µ¶·¸¹ºÂÃÄÅÆÇÈÉÊÒÓÔÕÖ×ØÙÚâãäåæçèéêòóôõö÷øùúÿÛ C ÿÛ Cÿİ  "ÿÚ   ? şş(  €
+ (óƒöÄı½4ÙûâŸÁ?¾]'^ø‘ñâ'€-üiè{›?|9Ö¼O§i÷òİ%½Ì<Kâ;9®"Ğ­ävûŠO­Ş[„“HM@ô~€
+ (  €
+ (  €
+ (  €
+ (  €
+ (  €
+ (  €
+ (  ÿĞşş(È>2ü|ø=û>øoş¿Œ>>Ğ|¤HdKÔ§–m[X-¶ƒ éñ^kšíÔjÊòÁ¤é÷’Cy³ªD7Ğå7ÿ à¹ ôKùìüğ·âOà€²WSŸCğ^vÀü²Y$·şªmØ¿¦i÷ äP f æ|-ÿ ÙøU{{^3øãïØ;í¸»ğßŠ<?âëˆ$K-FÓÁ«8_¶DÀgg˜À- ~şÏÿ ¶oìçûLÛ7ü*¯ˆºeö»¼—Wş×ü=ãKa]÷É j~MÅı²á®u=õ]&Ê’_«’”üì~ÏŸ²çÆÏÛïö›ñïí!oª§…şZübºñ|Ÿ<Ii{{¤Ú‰¢Ô4_øCOíßWŸFĞíôëÍå¦—¡éöö–÷7Âå¬ì®€?|¼[ÿ ıŒ|	ã_ü<ñgÆí3Fñwƒõ›ßøL›Â. Óµ:Sı‰Õì¼)s¢]Kgp¯opÖZÄpÜE,âXèï…?~üpğ¨ñ·Âi6ğ·ö…Ö’u(]$1êVK—vSE{miuÄ1ÜÛÈñËn‡Ëš)r: ôª (  €
+ (  €
+ (  €
+ (  €
+ (  €
+ (  €
+ (ÿÑşÈ¿nÛÃ?±×ÂY<O4VšßÄ_µŞğÏÂ²ÇªkÂw¬êË‘Ü§†¼9Å½Ö®ğ<RİÏq§èğ\Z\j‘^@øaû4şÅà£>,¼ı£¿i_ø‹Høm©_L©â¯/ş?ÛÙ\Ê³èßôË¨‹áéRı¢ĞjâÅ´k;µ–ÓHÑõ[˜õY´ğ¸o~,ÿ Áÿ d{‹¿hğOÄ/hŠ¶š¥Î‘à‡øÉ¬½ä#lè|uâÑwáÁzó#}ºÏEñ½­¥Èky-lü•·ˆ½í}ÿ †øìÑøwÇ	|#à©5‡£Rñ¯ÁmÃ76òI”Mş4ø~5[­	87Ç[°¶ƒ‰'º…Sz ğGƒzïÄÏ‡ÿ ~|kñ†şİ^[ø’ûNĞµd×õY4İ¢ïO—áÄ{³%½–¢»-’ÿ U:åİŒI¨A©êNc²@pøÙñÇUÓî›öÿ ‚~Xx/Nø±áŸ˜5]Tø‡CĞ<9ğ“Ã–Z† =åÔ÷ºÿ Ä˜Ü7º¢ÚÙjwšßM­ê/®­òi` |ÿ ‚%ëCÅ¶¾.ı©¾$h¾!ÓRùµ]GÁ>¼×¯®¼Ow,Ÿi’?xãY²Ğïí!áœêÉ¤é·7÷ë$¢×_±˜­Ú€~şx[Â¾ğ?‡´	x?BÒ¼3áÊ-;FĞtK};KÓl¡ÿ Woigl‘Ãd³¹¾Y]æ•Ww`ú (  €
+ (  €
+ (  €
+ (  €
+ (  “¿jŸÛ'á7ì}¦ø7Uø«cã;Ûoßk~Œ¾Ñôİ^XçÑ-ì.oòê:æˆ°FÑê6â‰î°2 Uf oÿ m‚Ÿ¿g_şÓ~.¸ñ%Ãÿ ØøjëÂZlZ<>.ÕîüW¤ÜëšF—¤tøµFÒì¯îîDúÌVÑY\´—øT.éŸ ¾=ü9ı¥>é_~ê×¾Õ.¯ô÷‡U±m7WÒõ]2o&ÿ KÕlL“¤–å¢—0\İ[Omqosms43#Ğ³Ğ@Çü[¥øÁ.ñŞ¶—rh¾
+ğÆ¿âİ^=>(ç¿“Kğæ•w¬_¥”Mm×oig2ÛE-ÄÉ1Dy¢V. •ğû?Øÿ ş€¿ğŒğÇÿ 7ÔÿÒı[ø…¥ê¿ğQÿ ø)ö§ğúöúğü+ø}®jŞ¸û$®±é¿>_Ioâ[«	#fò.¼uâ†¸‚ÏRf¶ŸÄúWœßNŠ4 úş
+wûIø¦ãÅ~ÿ ‚{~ÌSéjÖ¾ğ·‹t¯íÓç¿›Zµ²·ğ‡Âm)­šôı
+ßG¸Ó¯¼FªñÛ]Á{c¥^Om§éúÕ½ègáø'ïì%ûü:Ñ|aûmxÇCñWµ‹q;Ûk:Ïˆm<?¡o2ßé^ğO„åƒÄ¾2Miã·¾ÔµMY.CÛİ#CK”¶ YğìKÿ Éıµü7¾èº¦‹¥èŞ%şÅÕµÏ‡—~2ğ]äz¶Ÿª]èşñî™{¥ùØ_Ù»ŞXh+'•t~Á«E28ˆÛ¾&şÚ_?cŸ‹d-/ÁwZ^‹ªÚxwEºÔl¥m+Ã_¼1¬Íq¢xNğ›Û[‰üL÷z½¹}~u»·şÎ°7šÅî«©j¾vÀ”ğQŸë±Gí¹ğãö«ø[ØéßµÛ¯ˆ2YÄï¬7Òomáø¡Në½“LñÆ•­Ã}¨o}÷x—Ä1[ªCk ô½á?i>5ğ¯†|e Nn´/øFñ6‹r@ãI×´ëmWNœ…, Ëgw˜Ànà´WÕô­KÔuÍwS°Ñ´]"ÊçQÕu}VòßOÓ4İ>Î&îúşúîHm­-- æ¸¸Xá†$g‘ÕUš€?1ügÿ †ı‹<%­>câøåa¼{;_Áš}‰Ù$¸KÏj’şÍ]NË&Úş;”Û-£O¤´õŸìùû^~Ïßµ­ûüñõ»ªi	õê—ºŠ´Ëfxã“èZ´6·w:w›,P[NÚRÜK³^-Ëytê?ş-|9ø%àÍKâÅOé^ğ–R;WU’Oß]J²5¾¦Ù[G>¡«j·B)¦—¥ÚŞj")LÎÙ ?-5Oø-ïìŸe¬5…—ƒ~7ë:lsŸ]³ğÇƒí­e\€·vZŸlµ9 #æ"òÖÂä³1À ÑÙÿ ö•ø7ûNøFOüñm¿ˆl¬¥‚×\Ò§†]7Ä~¾¸I/h—a.ìdœA?ØîÂÍ¦êBŞâM.úöd‘@>Høéÿ `ı“>ø“PğqÕüSñ?ÄšEÌÖ:Å·Ã+LÕô½'P·v{¿ëZç‡ô[›‹y¢ºMóW6“«Û\ùWQM hşÏğT¿Ùgö‡ñVàM7RñGÃ¯ë7Øè:7Ä­3LÒmüE©\:Ç›£kz6·¯hÒjRºAca¨Şi—Ú•Ë¥®Ÿkwré w>3ÿ ‚ˆşÍ~;ê³ÏŒõıwÃŞ6Ò/ì4ı[VÔôh­<¦6¡áëOCuâYõá¶°K½®.å·Xá˜¼o€»èÈãÿ ‚ÀşÄ’x©¼6Ş1ñŒ:zÌ`_Éà=oşYÎ1Q—ÄÂ4O'†’!	Ì0V€>€øÛûy~Ë t¿ê>9ø§^Mã-ÛÄŞÒ<osãW]ğíô~nŸ®[Å¢%Å¥©&³5=ZóO±ÔŒs­„÷&ÚäDÊ|ÿ ‚~Éÿ ´7‰ôÿ ø3Çwº/us³GğÇ4KÏŞê÷óã¥ßÈn´ıMÿ å†—m¬>£u†6–·!$Øìß´§í;ğÃöRğF‘ñâÄšô^ÖüUgàëğî‘ı³zu›í#[ÖàÚı¦×Ëµû¨ŸÍ;eÇå·›¹ ;?‚Ÿ|ñ÷á‡…¾.xõ9<!ãµ9´wÖ,³u"šF·©x~óí6^lşA†“v#kï„G&FüPŒşÓ¿¶ÏÁÙóÁÖ?fñTSøæÛZ»Ğ¿áğÿ öÚt	tÈuµ·Û­>ÎÁõkO%pş`2˜ /¶'ÁÏÙóáo€ş/üB—ÄÑø?â5Î‹káÇÑt?í=M¥×¼;uâ{·Xı²ßìªt»9ŒÍçIåÜm‡»z€y¿à§ß±÷Ãÿ 	x;ÅÇ¯ïî¼qá›hŞğş‡q­xÆ×IÔ [‹AâYF›á›Ù‘ÔÅc®ëSÎ‡Ï¶YmŸ@·ìéû~Ì¿´ş²|+ğßÆwV~56²^Ãà¯éSxoÄ7¶ĞE$÷M¤¬Ïq¥krÙÁ³ŞÛhº®¡ukk·“Á¢5Ã }qâè>Ğõ_x£YÓ<=áİÆãSÖuÍjúÛMÒ´½>Õ—·÷÷rEmkm
+ÒK4ŠŠ:@ Ìoÿ Ác¿bßëgG²Ö¾ ø¾¼{9µïx"S¢D#fG»xƒSĞ5«=ËòMa¦İ´ÊV[xå‰ƒPçGü³öø3ûJ|#ı<[ğoÆÖ-Ól|_ñÓX´XnôİsA¼›GğÃCm®hZœš®š×ÆÎyíE M.ŸswO"€}¿âÛ¿Ù®Ïş	uû6?íQ¡x›\øm7>ÛXŸ$â]Å³x:åtgJ–;ı?ìòÛÙVÚY%’{i-ï%µ¹³¹·¸‘(ìŸØRo€?³oƒ®¿fm\Ğ>\j%l'I‡ˆïu{Mr÷O×µMj[‹ıNk‹»ÍJÒc­vbK8ím­ ³²·¶³€Ê¾3ÁScï‚Ş!Ôü'¨xÏYñßˆôY¤µÕ´ï†šñ½ô<Séï¯]ßèşšúŞDh® ´Ö®œÈö÷f˜ä $ğ¯ü/ö8ño|_ã«?êºjxMÓ5xWZğŞ¡cãôí[\Òü9os¥éJÓÚx…aÕu‹o×Ãú¤útS­ÍêÃnÑÊà>§ûI|-ı©?cÚ_âÂ=GUÔü7¤|7øÍàûÙõ}óC¹MoOø[.³sZ^şöHÇ_Ó]n1¼’Kù¡p ÅM ÿÓıÿ ‚"êßÿ hOêÏæx‘ü	¦£É(ÿ Iu×|aöıqÎïŞ÷úfšÓùéåïù‚PØ®ÖÓÅ¿ğWïZ¿‹öÏ­h3ı£õM/†dƒX±ñU÷†m ·Iwúo†oõ8­S–··µ›L*Êæßµ”Çø*½ïÃÚKÆ—¾øQ§x‡Bğlz•Æ£m¤ÚxÂş‡Ä­¦£ª+éú5§ŒüEy·zÍÊ´6RxçPfXíãT ú“ãWík¡~ÅŞ7ø=û$~Âÿ 5?	İëÚ&µãkëkë¿ˆºÕç‰¼_ã·—ÂX“T»±û~©¥Ggìí.¥¬ZXŞéV:|šX@e åÿ à¼z.‹o¯şÍ>%·H£ñ6£¤üOÑoçM¢æ}C½ğ=şŒ’0Ä‹–¡âqí·¦KÛ“d Nÿ ‚ÁKıµûşÍ$×HİøãÀ²Ï$Ãı$ÿ m|%ñEÿ ˆ‰İó€ú¦˜Óƒÿ -[¹€?Jÿ `K›ë¿ØÇön—Q.nág‡m£ó3»ì6QIg¥œƒL·´öòÂãŠ üÜÿ ‚âükñ'†<ğ§àƒyqa¤üI½×üOãW·‘ámOKğ|Ú$Z‡3)ÄÚ}Æ¯ªM«^Û°PnôMòÊ×¿d_ø%¿ì¿eğÀ:ßÅ¿‡öÿ ~!xóÁú/Š|K«k:×ˆm­´–ñ6›k«C x~ËFÕtË[4k{¨¬ÛUD}Zöñ.îşß¤ÖÖV€“µgÃ;Ÿø&wí±à_|Ôõ(ü/%¦‘ñÂº]íü·70èwZ¦£¡ø»áî¯|ágÔô›ØôíBÎ9îD—GCÖ,£îëV²ŸQ”Ö¿à®?¼_ñ¯ö¬ø_û>hwÏmá­3Hğ$Ón$’ÏüVšÚOííE#Îæ‹L¿Ğ´¸<Å•ôø­õ&¶+ı¥túãàø%_ìcáXø?^ø[mãí`é±[kŞ7ñ¯â¼E¬j&?ô­FÕô½bÆ£JXÚYèih–Ğ,1Í-íÂÍwpçµO…<ÿ úÿ ‚üJĞg].ãÂ×ºÕÎ™á•ñ3İŸ\ê~7Õ­ô­gÄš®¸‘Ûİ\ë6ŞmBÇD»‹ìÃF•4Ó§Ekš# |%ÿ ¨ÿ ‚|ø×ğßYøññÃCÿ „âŞçÄú†<àëCP²Ğ­`Ğâ³:Ÿˆ5˜ôË«+RúêşæM>ÇO¹¹şÍµ¶²¸¹¹´¾úÙôğ×ÿ  Á>ÿ dï…ß4ÿ øYc x³IÓæµÒl£Ô5+ÿ é:Œòdø—LĞµ[‹è4ÿ Ål^ÆÖîÒHmm ’I­laÔíÊüïşÚÆø*·‹~½óépüBø§ğ{ÂZœj¯.e®ø/áîŸ{}n
+Kqii<÷Dãd³Gm…c@ª_¶üöYğßì©ñ'_øcàCà¿ü'ğ·ã+Å°ëÚş¡¨ëQx/I¸×u«E©êWv:§öî›a{š¶v²Øj2ZÍ§5¥œRØNùŸÿ ¦ı¾şÕŞ7ø‘âoßøŸÁß
+4¯	XÚxKû_SÓ¡ÖõnÇ¥ÿ h_é—6ºªhÚŸá›²šm•õ‚Ü]İië$²ØZŞY] Xÿ ‚¨~Ë??d?ŠŸ|iğŞÿ ÀÚg-5½ZÏD´ÕõKïøF<]ğ÷RğíÇöÖƒ¨ê—wº­¤wcÄUÔ6Ò_N¶:Ì¶M´ĞZ[€}Ãÿ fñuïÄø'ÇìÉãÍN8áÔ¼oã¿„^.Ô"‰BÅï‰>	xÿ Y»5_•cIïdTQÀP é@oÿ Á+Ÿìğ	½-~"'ıûø·ãèı¿»ÿ ëë@™ğ^_ù¿fŸû|Qÿ Ó‡h¸ÿ ‚®ÉşÈÿ öøaÿ ª_Ä±ÿ Úÿ ‚pşÏ¾6ı|1ñ§ãg„"øâ‰CVÔ43TÕ5‹]ÂŞ³ÕuÆŞÚÃH¾Ó’ûUÔÅ„º­æ¡¨=É´K›+=:+)¬îîoÀ>ÿ ‚…|Ñ¿aÚ›á×‹ÿ gëËÿ iZ–Ÿ¦|Kğ†›-ıî¡'„|I ë÷6·Ú]­åíÄú…ş1´±¹NöêyaÔ5.æY­#Œ°ÛŸğZ¾#¹øMû=ü9Ñ$¹Ò<?ñwMºø•ãX¥e7Öú=§‡&ğÖ…q"mûM¶£®^êwvò/•%ş—¢İZ£(Ñ²ü×öcÓ~xÄ?|	oñ;âü#£x§Ä–µ¬k°iÚ/ü$ºd¤:‡ôí#SÓ­-¡Òmo!µ“U•.uKËø®o¢½¶µ–ÚÂĞòş
+…ûø7öIø¡àëÏ†R^Ûü8ø©¥ëš‹áıJú}JëÃÏ†nôèuİ"ÛP»io¯tQo®è—Z\Ú•ÍŞ£O{kuwuöxî% ûËöÈÿ ”:şÌõáğÿ Pb€1¾|dñ/Á?ø"¥·ˆ<wq¦x›Ä¾&ñ€4ÍbÖFŠçGÅ|Ak¬j³FV[{äĞ!Õ­ôë¸^9ìu‹[è_Ì·U`¿ø%ìğgâ÷Ã[ãßÆÏ[xù¯üO©økÁ~Ô§»_i¶Z
+Z¦¥®ê–v—ÃVÔ¯õ‹‹[-@Ï§XÙØ¯³\İ_Dúx¡ÁQ?àßüğ\øùğ_Â6õï jø§DĞeº‹Ã%ğçˆ5İ?Ã¬cÑ§kM3VÒuM_N½·¸ÒÅ¼ÚrjV÷–—“ÿ gËj[ş	«ÿ (¹ı°¿ì+ûBÿ ë>ø€?œJ ÿÔıvø1¬ÇûÁT<mà¿0Ñ~üJÖµ¿
+ÛêWGÉÓ­¼ñ/T³ñOÃÍdÍ![co£ëpèÚ³©HtØâñHñiâ ‹ş
+ğçâìQûgøOöÙø_§µÇ„|eâxuûì,‹¦ÚøÖm>]?Ç>×%…Yí¬~ è‡RÔ­®Ü‰§›Sñ
+Y*K£DìõŸş~ÅğV='Ã<ñ8ü:ø×i£Ûé:”M¤·Œí­¡YgDñ—€µË9|C‘q=Êé^%Ğ5`¹ƒÌ¶X¼´‚K 
+_¿`Ù+ş	ñ­Züxı ¾:i*ñ/„â—Tğñ=†á-.ÃQˆH‹ªx{ÀvúÇ‰¼EâÏÚ†Û£%­İÿ Øn³¨Zé_Ú0Y^Ø |-=ç‹à­¿·N“sc£êºOÀ?‡cO†ïí‰åá~—©Ë{vuY`’kX|gñ+QûM¥¥µ´·Y$ğE»PÓ|)y¨0¦Áe~+/Å/Œ¿e_‡oZğ}ÄrêÚV•±üßü@}'Iğ…"‰ Xõ;G)ËTñU¬–X% èSá€àø[ğ«á¯Ã[i#š xÂ^IâR©r|5 Øhïv
+ÄİIh÷Î»ÈÎÿ ; ü³ÿ ‚Æ~Ë¾*øÕğ—Â¼¥^ëŞ&ø/q®¾· i–òİjZ§¼Hšcê·ö6°$··^¾Ñ¬oÚÒÃd^kw…˜ÙÇ€|Ëû*Áeşü;ø-á‡?ü	ñSñG€<=aám+Ä·ğî¯iâ]BµÃD“W¶×|Eá»'W‡N‚ÒÆúhŸW‡PšÚMQåµ–èÙDò>µ©|Gÿ ‚µşÚšÖ—áMGÃ?t{}C¿+#ßÁà…Z>£{©jz†¹«Ã6GÄş#º½ÕÛM·EO´j·Ö<Ïe¦>¤ Pÿ Ác¿fÿ xOâ?‚k_‡VwßØ6ºo†¼?â«İ&šox£Â7E¼!â+€ˆÿ eÒu!§év÷n†ÒÇUÑ­àº•fÖtø' õÿ Át¾¯¬Äƒ~8oˆÖºtêáïMácS†!÷ğİêÚ•«¡[_J¿hÙZÛiâSl·—Â¸œÔ¬>/ÛÁZc/Ğü¨ü?øŸáË«İ2ÂêK½CÂSøƒJÔÿ á#ğ}¶ãI´û:yu«9¼?¯ZİCk}£>£&«ö3§Ke;€~k~Âÿ ğP½sö·ñ§À¿Œÿ üS«øZßÅWº™Ó,~Ï¥øÛÀ~(1Á§øƒM“H×ZÊÚşÆøØZLlgÔ4™4ëø®®¢’èjRª ~’|0ÿ ‚Ëü:ø©ñçÁ4ƒŞ=Ó¼ã;¡ Aâk–ƒYñl%Ô.`‹GwğW†bÖ7èQªÎº´ö:¾¥¨Â“¥ôV~FqØÀ¿ÿ å6zGı—Ïúˆü= èKö¿ÿ “Lı§ÿ ìŞ~4ê¸ñ% ~;ÿ Á¿äûQ×÷ÁÏı'ø@ğ^¿øüı–ëÛãOşøU@PşÔ¿ <IûAÿ Á.>é>±¹Õü_ğ÷áoÀÿ Š‡eÍ{®Ÿü1ƒIÖ´«(c-ÍûøoÄÍŞ›cRÏ¨ê6vš}ºîbùáûÿ ÁSôÙwáüø³àx—CğÎ­®_x7XğtºCjz}¶¹}s¬j>Õ´rûG„Åˆnõ+øu(5&SšÖM9¾Ç“€|—û{~ÔŞ7ı¯¼qáŠ·¾Ö<ğ¢ÊÏZğoÂ»]Aeº·Ô$Ñî4ûÿ ^É­k}?Q×Ş}cC:Í®˜d¶ÑìÛDÓÙç%¿¿ ıFÿ ‚®ÉşÈÿ öøaÿ ª_ÄúOÿ İÿ “ıÿ ìM¼ÿ ÔŸ^ Ç¯ø.ÚcâÇÀwş÷ÃÏ&Üñ$Gôó?Z ú7ş
+sû/ø¯ã'ì«ğâß€t»ÍwÄü¦ÂC é¶ò]j:‡¼Iá¯É©j–vĞ¬“İÍá‹ıÒòkX#Ü4{ıfşF+§*0ŠşÉ¿ğY_
+ü2ø=áo†¼ãXğ…gáÅşÀÔ[^Ñ4{d³Ğ¡×ôí[ğóiú…†Ÿ¶s©ZŞê¿ÚBÜ_ÍkÔ“£€~y~İÿ µ·Œlßhÿ ÁÚŸƒşøEo|à–’şÔ.¾¯¯\êZÊ[Á§Ïâ}V¥\êmh´*ßF¶-tÁµ=@ôóöÈÿ ”:şÌõáğÿ Pb€6ş ü Õ¿iOø#•¯Ã*ÉãÖ|sâ¿A$‰_x‹Âß5İR ¼…"MvÆ=CC¶ši"‚ÚëR‚æâE† |mÿ ûÿ ‚Œ/ìc¦ø¯àŸÆŸx»TğOü%úµ°Ğí­"ñŸ|LÑÅ¦øƒH¼ğÿ ˆ/4X®ôû«>ÖYí%Õ4ËíP‹R[êO¨=½¨wû|ÿ ÁK­k…ÚÇÁï€¾ñÍ‡€a:gŠş)ø«Å6jhš·§eØÿ eèš»k¤ø{ş›Ü\k:–«ÍŞ¦šV™•·œÿ m ÷ÿ ø&¯ü¢çöÂÿ °¯íÿ ¬ûàj şq(ÿÕş¨ÿ à¨ß±çíAğæÃâÃ5.¾5|1³º]„^\w9ğ|’=æ£á%‘¶‡Õ¬nZ]_ÂÂGòŞò}SJ
+’k‰unñoì‹ÿ ø_ã‡/û$~ŞÚL¨ğJxËÇ}ÌÚ6¯e¦J¶–š/Ä¨çA©økÅZÅ¼ÛxÁÖ%YìáÔ5‹İ[ÓåÕõ@â'ü3áÇ.‡Œÿ g/k¢xGXC¨hÚ>·¦ÃãíVW/h~:ĞõÛ	æÒc?»µûV­Ş„PÓj÷rg ç¼ÿ 1Ô$Õ-õoŒ_´\3iíçk6^ğµÃjWvP/Îø«Äú»[ée"]ßk¹ğŞ©(¤b>u ôßŒ_¶¯ì›ÿ şøY©üıtÿ ø³âTé:\jz%Òx@ÑuÙ`û4¾)ñïŒüÛˆücâKR?Ñ|;aswœ–ÿ Ù·ÇÃúuµ¾›8ÿ ­ı‹<câMûkşĞ°jwzö³w©kß¬<N²É­kšÎ¾ÓË©üVÖâºQ([„»¸_	} 3ŞIw?‰aŠ ğõíĞô@ |Ëã/ØÇöRø­ÏâO~Ïßµmzòñ¯ïõaá]?O¾Õ/d%¥ºÕ§Òã±mZy˜îMHÜ™2— P²øá¿Ãï…ºøká·‚<)à/‰ŞèèşĞtÏéò]J –îkm.ÖÖ+‹¹B-ÔâK‰v2FÀ ºêÖÖúÚâÊúÚË;¸e¶»´º†;‹k›iÑ£šŞâ	Uâš£fX¤FI™-@(j_°oìm«k	®Ş~Íÿ 
+EúHòì²ğÅ®™¦I$‡sµÆ‡¦ı“D¹Ü~l\XJ$Kn úWÂ¾ğ§t+ø'ÃZ„<7¦!NĞ<3¤XhZ5Š3nu´Ó4Ë{[;}îKÉåB¥Ü—rÌÅ˜Ì~(~Í_ >5\­÷ÅOƒş ñÆ¨–âÒ=o[ğæŸ/ˆ"µ_¹mˆaŠ-n+xúÇwËdåIÍ /ÂßÙ¯àÁ9ŞóáOÂxS–ØÙM­è±‹Ä3Ù±í.<C<Së“Û;*³Á6 ñ;¨wVa@·¿~ê^:OŠÁï†7ßcÔ,5xüyàOÜøÍ5]*km3ROM¦¶°·úu½¤7bïÏµŠÖŞ8$E… z.¹¢hş&Ñux‡L±ÖôL¿ÑuÍTµ†ûLÕôRÖ[KLÔl®K{»û9æµ»µ‹ydŠDdfZ áş|øGğ}5xş|4ğ?Ã¤ñX¾¸ğÎ“áÅÕÛLcNmDiV¶¢ñ¬Eığµ3‡0»ß9÷€Uø™ğ3àçÆfÑ[âÇÃ/üDoAtñv§ëgH]XØLiæú)~Ì/›`n„[|ï±ÛïÏ–›@=FÑô¯èúW‡ô->ÓIÑ4-6ÇGÑô«ÚÇLÒ´ËX¬´ı>ÊÚ0±ÛÚYZAµ´ª¤PÄ‘ 
+ P†x³öKı˜|uâ9ü_ã€?	|EâkË–¼Ô5­OÀ¾¸¾ÕnÜaîu™M€şÙ€¥Õ>ÖìA#hZ éü[û?|ñæáŸxÓà÷Ã_øÁpÜ[xCCÖüáíCHğ½µÚZÇuoáı6ãO{="ˆì¬Òhl!·ÖÖİY… iøËà×Â_ˆÑ<ãÏ†Şñ„ü7%¤¾ğß‰|5¤ë:&‹-…„º]Œšf›k=¥“Úi³ÍanÖñFb´–H±J êü+áOxÃú_„ü iğÆ‰ZèşĞ4ûm+GÓ-ši'h,tû8¡µµ‰§šiLpÄŠd•Ü‚ÌÆ€8ˆ¿>|]¼ÓuŠ
+~üC¾Ñ­¦³Òo<eáMÄW:m¥Ä«5Åµ”Ú¥Ì–ĞM2¬²ETy3Ã*éÖVvšu¦Ÿam´vVvÑ¤6Ö¶–±$ÖÖğ TŠ!DŠ(ÑU5UP €>nñìcû(øó\—Ä¾+ıŸ~jºõÍãjÚ ğ›aw©Ş¹Ì—:¼šdV_ÚòÊß4Í©-Ù¹—q ÃVı›¿gí{Â~ğ³ğOán¥à¯
+\\İøkÂw~ğÜŞĞnïmåÖ“¤6llno?k¸·&ºb^wv$Ğö»ğ_á‰ü¤|2ñÃOëŸôÓSCğ>«á&ûÂºBhöòZi+§hw²iÖcM¶–K{!ºhdxâÚ¬B€t	ğ'‚¾xvÓÂ?¼)áÿ x[O–îkxcJ²ÑtkIo®e¼½’ßNÓá·µ…î®æšæá’ eY%rÎÄĞ“|Sı“¿fßzŒºÏÅ‚şñn»<QÁqâ+½+/\C
+í†)üE¤¾Ÿ­ÍòÀ’ß:Â§lAAÅ hxgöaıüàÍwáç†¾|7Ò¼â˜í"ñO‡¢ğ¦“5—Š#°š;‹ñ)º·¸Ÿ_ûñ$Ö­«ÏxĞJ¢H¶¾]€:¿
+|øKà_kŸüğÛÁğ7‰ŸS“Ä^Ğ<5¤é^×$Ö´Ë}W}WH³µ†Æùµ="Ò×L¾7¹º±·†ÚbĞÆˆ Yÿ Uû!Ñ²üÿ ÃcáşTĞÿÖşş(à¯Ú»ş	Õû>şÕÍqâ{K¸ğ/Ä×‰R?‰ŠÖ×T¿1 HcñV—,gLñT¢Eñ-õ¸­áŠÒË\³¶S ~K^Á"?mo„úÙøûCè'Gi<è®tü@øQ¯\Ì¹%Î“£Úêº\Rì
+Aâk†+òª†p
+WğKŸø(×Å¦·Óş0ü°»ĞŒ™»_üdøãù!‹?3Ûi/§ê¶WSœ±Ëdšá@şËÿ ğHO€¿µM?Æu	ş9øÛO’+›üA¤[é^Ò/#o2;«_}«S:½å»ecŸÄZ®¥`Y#»·Ñ¬¯#H€?ZÀ
+¨
+ª U À   à 8ö  €
+ (  €
+ (  €
+ (  €
+ (  €
+ (  €
+ (  €
+ (ÿÙ
+endstream
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+/F6 12 0 R
+/F7 13 0 R
+/F8 14 0 R
+/F9 15 0 R
+/F10 16 0 R
+/F11 17 0 R
+/F12 18 0 R
+/F13 19 0 R
+/F14 20 0 R
+>>
+/XObject <<
+/I0 21 0 R
+>>
+>>
+endobj
+22 0 obj
+<<
+/Producer (jsPDF 2.3.1)
+/CreationDate (D:20210610163607-05'00')
+>>
+endobj
+23 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 24
+0000000000 65535 f 
+0000007216 00000 n 
+0000020123 00000 n 
+0000000015 00000 n 
+0000000120 00000 n 
+0000004476 00000 n 
+0000004581 00000 n 
+0000007279 00000 n 
+0000007404 00000 n 
+0000007534 00000 n 
+0000007667 00000 n 
+0000007805 00000 n 
+0000007929 00000 n 
+0000008058 00000 n 
+0000008190 00000 n 
+0000008326 00000 n 
+0000008454 00000 n 
+0000008581 00000 n 
+0000008710 00000 n 
+0000008843 00000 n 
+0000008945 00000 n 
+0000009041 00000 n 
+0000020384 00000 n 
+0000020470 00000 n 
+trailer
+<<
+/Size 24
+/Root 23 0 R
+/Info 22 0 R
+/ID [ <61180063BCA1D9DDFF409593C3DDFFAE> <61180063BCA1D9DDFF409593C3DDFFAE> ]
+>>
+startxref
+20574
+%%EOF
